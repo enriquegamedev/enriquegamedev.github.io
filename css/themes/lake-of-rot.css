@@ -1,0 +1,28 @@
+/* Theme Lake of rot*/
+
+main {
+	background: #84262A;
+	color: #CAB5B5;
+}
+
+a {
+	text-decoration: none;
+	color: #CAB5B5;
+}
+
+a:hover {
+	border-bottom: 1px solid;
+}
+
+.icons-social a {
+	color: #CAB5B5;
+}
+
+.icons-social a svg path{
+	fill: #CAB5B5;
+}
+
+.icons-social a:hover{
+	border-bottom: 0px solid;
+	color: #00ACEE;
+}

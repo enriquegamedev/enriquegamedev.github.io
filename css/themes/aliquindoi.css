@@ -1,0 +1,28 @@
+/* Theme Aliquindoi*/
+
+main {
+	background: #AFD8DA;
+	color: #D6718E;
+}
+
+a {
+	text-decoration: none;
+	color: #D6718E;
+}
+
+a:hover {
+	border-bottom: 1px solid;
+}
+
+.icons-social a {
+	color: #D6718E;
+}
+
+.icons-social a svg path{
+	color: #D6718E;
+}
+
+.icons-social a:hover{
+	border-bottom: 0px solid;
+	color: #00ACEE;
+}
