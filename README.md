@@ -2,7 +2,7 @@
 
 Landing page for games by Enrique Moreno.
 
-Currently developing: Aliquindoi.
+Currently developing: Aliquindoi | Jondo.
 
 ## Themes
 
